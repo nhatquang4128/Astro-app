@@ -49,14 +49,14 @@ export const TabData: ITabData[] = [
   {
     id: 1,
     tabName: "Home",
-    title: "Trang chủ",
+    title: "Home",
     iconName: "home",
     component: Home,
   },
   {
     id: 2,
     tabName: "Quizz",
-    title: "Trắc nghiệm",
+    title: "Quiz",
     iconName: "apps",
     component: Quizz,
   },
@@ -70,7 +70,7 @@ export const TabData: ITabData[] = [
   {
     id: 3,
     tabName: "Puzzle",
-    title: "Xếp hình",
+    title: "Puzzle",
     iconName: "extension-puzzle",
     component: Puzzle,
   },

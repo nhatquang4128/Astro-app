@@ -12,9 +12,9 @@ interface IShowData {
 }
 
 const show: IShowData = {
-  easy: "Dễ",
-  medium: "Trung bình",
-  hard: "Khó",
+  easy: "Easy",
+  medium: "Medium",
+  hard: "Hard",
 };
 
 const QuizzScreen = () => {

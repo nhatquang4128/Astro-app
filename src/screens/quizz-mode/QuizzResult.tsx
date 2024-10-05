@@ -23,14 +23,14 @@ enum EResultType {
 
 const RETURN_RESULT = {
   [EResultType.GOOD]: {
-    title: "Xin chúc mừng!",
-    description: "Bạn đã trả lời đúng",
+    title: "Congratulations!",
+    description: "Your answer was correct",
     color: "#16A34A",
     logo: require("../../assets/good_logo.png"),
   },
   [EResultType.BAD]: {
-    title: "Rất tiếc!",
-    description: "Bạn không trả lời đúng câu nào",
+    title: "Too bad!",
+    description: "Your answer was incorrect",
     color: "#EF4444",
     logo: require("../../assets/bad_logo.png"),
   },

@@ -28,13 +28,13 @@ const Home = ({ navigation }: Props) => {
           popularData={getRandomArray(Object.values(mixedData), 5)}
         />
         <CardList
-          title="Hệ mặt trời"
+          title="Solar sytem"
           data={Object.values(commonData)}
           displayType={EDisplayType.NORMAL}
           dataType={EData.COMMON}
         />
         <CardList
-          title="Hành tinh"
+          title="Planets"
           data={Object.values(planetData)}
           displayType={EDisplayType.NORMAL}
           dataType={EData.PLANET}
