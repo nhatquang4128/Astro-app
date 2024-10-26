@@ -18,7 +18,8 @@ I'm a student working on an application using my knowledge gained from coding ja
 
 ## 🛠 Skills
 Javascript, HTML, CSS...
-
+##ScreenShot
+![screen](../Astro-app/src/assets/Screenshot_20241012_170540_Expo%20Go.jpg)
 
 ## Run Locally
 
