@@ -20,7 +20,7 @@ https://drive.google.com/file/d/1h9R9obXAqfmYT61WeQgbxZkllgEEDFdm/view?usp=drive
 - **Quiz**: Where you can test your space knowledge with a collection of quizes and questions with many difficulties from Easy, Medium and Hard.
 - **Puzzle**: An entertainning game by reshuffling your pictures to complete an image of spcae objects.
 
-![screen](./src/assets/Screenshot_20241012_170540_Expo%20Go.jpg =100x20)
+![screen](./src/assets/Screenshot_20241012_170540_Expo%20Go.jpg)
 ![screen](./src/assets/Screenshot_20241012_170545_Expo%20Go.jpg)
 ![screen](./src/assets/Screenshot_20241012_170604_Expo%20Go.jpg)
 ![screen](./src/assets/Screenshot_20241012_170613_Expo%20Go.jpg)
